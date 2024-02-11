@@ -1,4 +1,8 @@
-# Hussein's Portfolio
+# Hussein Sedoum - Frontend Developer
+
+## Portfolio
+
+Check out my portfolio: [Hussein's Portfolio](https://hussein-portfolio-1.vercel.app/)
 
 ![Hussein's](/public/logo.png)
 
@@ -8,6 +12,9 @@ I've always been a tech enthusiast, fascinated by the amazing world of technolog
 
 - **JavaScript (JS)**
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+
+- **TypeScript**
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 
 - **HTML**
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
