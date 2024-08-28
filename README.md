@@ -4,7 +4,7 @@
 Check out my portfolio: [Hussein's Portfolio](https://hussein-portfolio-1.vercel.app/)
 
 <div style="display: flex; align-items: center;">
-  <img src="/public/logo.png" alt="Hussein's Logo" width="100" style="margin-right: 15px;">
+  <img src="/public/logo.png" alt="Hussein's Logo" width="180" style="margin-right: 15px; display:inline">
   <p>I've always been a tech enthusiast, fascinated by the amazing world of technology. I enjoyed tweaking my computer and smartphone, adding mods to them. Then, I decided to enter the programming world to create things that others could see and be amazed by. Since I like people to see my work, I leaned more towards frontend development. I've been enjoying working with all its languages and technologies. I love to read, taking walks, singing, and playing guitars.</p>
 </div>
 
