@@ -2,9 +2,11 @@
 
 ## Portfolio
 Check out my portfolio: [Hussein's Portfolio](https://hussein-portfolio-1.vercel.app/)
-![Hussein's](/public/logo.png)
 
-I've always been a tech enthusiast, fascinated by the amazing world of technology. I enjoyed tweaking my computer and smartphone, adding mods to them. Then, I decided to enter the programming world to create things that others could see and be amazed by. Since I like people to see my work, I leaned more towards frontend development. I've been enjoying working with all its languages and technologies. I love to read, taking walks, singing, and playing guitars.
+<div style="display: flex; align-items: center;">
+  <img src="/public/logo.png" alt="Hussein's Logo" width="100" style="margin-right: 15px;">
+  <p>I've always been a tech enthusiast, fascinated by the amazing world of technology. I enjoyed tweaking my computer and smartphone, adding mods to them. Then, I decided to enter the programming world to create things that others could see and be amazed by. Since I like people to see my work, I leaned more towards frontend development. I've been enjoying working with all its languages and technologies. I love to read, taking walks, singing, and playing guitars.</p>
+</div>
 
 ## Connect with Me
 - **LinkedIn:** [Hussein's LinkedIn](https://www.linkedin.com/in/husseinsa/) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)
