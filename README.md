@@ -1,4 +1,4 @@
-# Hussein Sedoum - Frontend Developer - fullStack developer - CMS developer 
+# Hussein Sedoum - Frontend Developer -  Web developer - fullStack developer - CMS developer 
 
 ## Portfolio
 Check out my portfolio: [Hussein's Portfolio](https://hussein-portfolio-1.vercel.app/)
